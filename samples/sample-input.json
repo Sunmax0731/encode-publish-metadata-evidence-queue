@@ -1,0 +1,19 @@
+{
+  "product": {
+    "repository": "encode-publish-metadata-evidence-queue",
+    "title": "エンコード・公開前メタデータ・証跡・処理キュー"
+  },
+  "items": [
+    {
+      "id": "ok-1",
+      "title": "エンコード・公開前メタデータ・証跡・処理キュー 正常ケース",
+      "source": "source-ok",
+      "encodePreset": "encodePreset-ok",
+      "metadata": "metadata-ok",
+      "owner": "owner-ok",
+      "acceptance": "acceptance-ok",
+      "status": "ready",
+      "thumbnail": "ready"
+    }
+  ]
+}

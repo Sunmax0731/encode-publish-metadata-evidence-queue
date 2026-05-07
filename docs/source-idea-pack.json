@@ -1,0 +1,11 @@
+{
+  "createdIdea": "D:\\AI\\WindowsApp\\created_idea_015_encode-publish-metadata-evidence-queue",
+  "zip": "D:\\AI\\WindowsApp\\created_idea_015_encode-publish-metadata-evidence-queue\\idea_015_encode-publish-metadata-evidence-queue.zip",
+  "rank": 27,
+  "domain": "WindowsApp",
+  "ideaNo": 15,
+  "title": "エンコード・公開前メタデータ・証跡・処理キュー",
+  "overview": "エンコード設定、公開前メタデータ、編集・書き出しレポート、変換、字幕焼き込み、サムネイル生成を処理キュー化する。",
+  "problem": "動画公開前の書き出し、説明文、証跡、再実行処理が分かれ、ミスややり直しが発生しやすい。",
+  "differentiation": "編集ツール由来のメタデータを使って、公開前確認と再実行可能な処理キューをつなぐ。"
+}

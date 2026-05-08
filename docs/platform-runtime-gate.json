@@ -1,0 +1,11 @@
+{
+  "product": "encode-publish-metadata-evidence-queue",
+  "title": "エンコード・公開前メタデータ・証跡・処理キュー",
+  "domain": "WindowsApp",
+  "ideaNo": 15,
+  "platformType": "windows-local-app",
+  "expectedPublicTarget": "GitHub Release / BOOTH",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
